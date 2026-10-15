@@ -1,1 +1,1 @@
-
+print("AURA HUB carregado!")
